@@ -1,0 +1,45 @@
+const cinema = {
+  theater: "prasads",
+  movie: [
+    {
+      title: "Baahubali",
+      genere: "Action,Drama",
+      img:"images\baahubali.jpg",
+      shows: ["11:30am", "2:30pm", "6:30pm", "9:30pm"],
+      seats: [10, 20, 5, 0],
+      condition: "A.c",
+    },
+    {
+      title: "Pushpa",
+      genere: "Action,Triller",
+      img:"images\pushpa.jpg",
+      shows: ["11:00am", "2:30pm", "6:00pm", "9:30pm"],
+      seats: [10, 5, 0, 0],
+      condition: "A.c",
+    },
+    {
+      title: "KGF",
+      genere: "Action,Thriller",
+      img:"images\kgf.jpg",
+      shows: ["11:30am", "2:30pm", "6:30pm", "9:30pm"],
+      seats: [0, 0, 5, 0],
+      condition: "A.c",
+    },
+    {
+      title: "Pushpa 2",
+      genere: "Action,Thirller",
+      img:"images\pushpa2.jpg",
+      shows: ["11:30am", "2:30pm", "6:30pm", "9:30pm"],
+      seats: [0, 0, 5, 0],
+      condition: "A.c",
+    },
+    {
+      title: "Baahubali 2",
+      genere: "Action,Drama",
+      img:"images\baahubali.jpg",
+      shows: ["11:30am", "2:30pm", "6:30pm", "9:30pm"],
+      seats: [10, 20, 5, 0],
+      condition: "A.c",
+    },
+  ],
+};
